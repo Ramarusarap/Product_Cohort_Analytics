@@ -1,5 +1,4 @@
 # Product_Cohort_Analytics
----
 
 # 📊 B2C Product Analytics – Funnel, Cohort & LTV (SQL)
 
@@ -119,5 +118,4 @@ All datasets are synthetic and do not reflect real users or business data.
 **Parasuram P**
 
 
-Just tell me.
 
